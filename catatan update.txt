@@ -1,0 +1,6 @@
+update
+18-10-2023
+
+Penambahan fitur gmap
+penambahan fitur registrasi
+penambahan fitur kontak
